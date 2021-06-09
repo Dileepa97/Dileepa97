@@ -4,7 +4,6 @@
 My name is Dileepa Lakshan and I'm a undergraduate student. I'm from Sri Lanka and currently studying at Faculty of Information Technology, University of Moratuwa.
 
 ## &#x1f4c8; GitHub Stats
- <hr style="margin-bottom:20px;">
 
 <a href="https://github.com/Dileepa97/Dileepa97">
   <img align="center" style="margin:10px" src="https://github-readme-stats.vercel.app/api?username=Dileepa97&hide=stars,issues&count_private=true&show_icons=true&theme=dracula&border_radius=50&include_all_commits=true&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -13,15 +12,13 @@ My name is Dileepa Lakshan and I'm a undergraduate student. I'm from Sri Lanka a
   <img align="center" style="margin:10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dileepa97&theme=dracula&border_radius=50&custom_title=Weekly%20Activity&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-## 📫 How to reach me:
- <hr style="margin-bottom:20px;">
+## 📫 How to reach me
 
 - <h3><a href = "https://www.linkedin.com/in/dileepa-karunathilake/">LinkedIn</a> </h2>
 - <h3><a href = "https://stackoverflow.com/users/12699502/dileepa-lakshan" >  Stack Overflow </a> </h2>
 
 ## 🔧 Technologies & Tools
 
- <hr style="margin-bottom:20px;">
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 

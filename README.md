@@ -3,6 +3,8 @@
 
 My name is Dileepa Lakshan and I'm a undergraduate student. I'm from Sri Lanka and currently studying at Faculty of Information Technology, University of Moratuwa.
 
+![counter](https://en9zihyhtv85u02.m.pipedream.net)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dileepa97/Dileepa97">

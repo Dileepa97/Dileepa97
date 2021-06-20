@@ -12,7 +12,7 @@ My name is Dileepa Lakshan and I'm a undergraduate student. I'm from Sri Lanka a
   <img align="center" style="margin:10px" src="https://github-readme-stats.vercel.app/api?username=Dileepa97&hide=stars,issues&count_private=true&show_icons=true&theme=dracula&border_radius=50&include_all_commits=true&show_owner=true&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Dileepa97/Dileepa97">
-  <img align="center" style="margin:10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dileepa97&theme=dracula&border_radius=50&custom_title=Weekly%20Activity&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" style="margin:10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dileepa97&theme=dracula&border_radius=50&custom_title=Monthly%20Activities&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&range=last_30_days" />
 </a>
 
 ## 📫 How to reach me

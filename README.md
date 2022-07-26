@@ -33,7 +33,7 @@ My name is Dileepa Lakshan and I'm a undergraduate student. I'm from Sri Lanka a
 ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lang-C#-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)

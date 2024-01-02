@@ -1,21 +1,31 @@
-# Hi there 🤗
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I am Dileepa Lakshan and I'm an IT graduate from Sri Lanka. I am a passionate, energetic, and self-motivated software developer who likes to experience new things, new knowledge, and new people in the field of information technology. 
+<div id="header">
+  <img src="https://komarev.com/ghpvc/?username=Dileepa97&style=flat-square&color=blue" alt=""/>
+</div>
 
+I am Dileepa Karunathilake and I'm an IT graduate from Sri Lanka. I am a passionate, energetic, and self-motivated software developer who likes to experience new things, new knowledge, and new people in the field of information technology. 
 
-## GitHub Stats &#x1f4c8;
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
+</div>
 
-<a href="https://github.com/Dileepa97/Dileepa97">
-  <img align="center" style="margin:10px" src="https://github-readme-stats.vercel.app/api?username=Dileepa97&hide=stars,issues&count_private=true&show_icons=true&theme=dracula&border_radius=50&include_all_commits=true&show_owner=true&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Dileepa97/Dileepa97">
-  <img align="center" style="margin:10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dileepa97&theme=dracula&border_radius=50&custom_title=Weekly%20Activities&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" />
-</a>
+## My Stats &#x1f4c8;
 
-## How to reach me 📫 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dileepa97&theme=dark&border_radius=5&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
 
-<h3>🔸 <a href = "https://www.linkedin.com/in/dileepa-karunathilake/">LinkedIn</a> </h3>
-<h3>🔸 <a href="mailto:dileepa.18@itfac.mrt.ac.lk">Send Email</a> </h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dileepa97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Reach me 📫 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/dileepa-karunathilake/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:karunathilakadileepa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 ## Technologies & Tools 🛠
 
